@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\CPPDev\\LearnVulkan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFF81E0-28AC-4D02-97ED-5BFCE8B832A1}|LearnVulkan\\LearnVulkan.vcxproj|C:\\Github\\CPPDev\\LearnVulkan\\LearnVulkan\\LearnVulkan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CFF81E0-28AC-4D02-97ED-5BFCE8B832A1}|LearnVulkan\\LearnVulkan.vcxproj|solutionrelative:LearnVulkan\\LearnVulkan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LearnVulkan.cpp",
+              "DocumentMoniker": "C:\\Github\\CPPDev\\LearnVulkan\\LearnVulkan\\LearnVulkan.cpp",
+              "RelativeDocumentMoniker": "LearnVulkan\\LearnVulkan.cpp",
+              "ToolTip": "C:\\Github\\CPPDev\\LearnVulkan\\LearnVulkan\\LearnVulkan.cpp",
+              "RelativeToolTip": "LearnVulkan\\LearnVulkan.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T19:05:32.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
